@@ -133,3 +133,5 @@ Certificate:
 #+END_SRC
 
 ** References
+
+- https://serverfault.com/questions/661978/displaying-a-remote-ssl-certificate-details-using-cli-tools
